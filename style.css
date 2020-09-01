@@ -1,0 +1,9 @@
+header {
+    border: 1px solid red;
+}
+main {
+    border: 1px solid black;
+}
+main header {
+    border: none;
+}
